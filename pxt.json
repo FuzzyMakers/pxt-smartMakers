@@ -14,11 +14,9 @@
         "actuators.ts",
         "sensors.ts",
         "table.ts",
-        "cameraSensor.ts",
         "enum.d.ts",
         "irControllerDefinition.ts",
-        "shield.ts",
-        "rgbLed.ts"
+        "shield.ts"
     ],
     "testFiles": [
         "test.ts"
