@@ -1,6 +1,6 @@
 {
     "name": "Smart Makers",
-    "version": "0.0.1",
+    "version": "0.0.3.1",
     "description": "Uma extensão para o micro:bit dos kits Smart Makers",
     "license": "MIT",
     "dependencies": {
