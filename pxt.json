@@ -4,19 +4,12 @@
     "description": "Uma extensão para o micro:bit dos kits Smart Makers",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "datalogger": "*",
-        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.1"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "fuzzybot.ts",
         "actuators.ts",
-        "sensors.ts",
-        "table.ts",
-        "enum.d.ts",
-        "irControllerDefinition.ts",
-        "shield.ts"
+        "sensors.ts"
     ],
     "testFiles": [
         "test.ts"
