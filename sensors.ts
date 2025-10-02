@@ -52,14 +52,14 @@ enum MotorDirection {
      * Obtem o valor do sensor infravermelho na porta determinada.
      * @param porta de entrada da placa de expansão.
      */
-    //% blockId=infraredIO block="Valor do sensor infravermelho na porta %pin"
+    //% blockId=infraredIOFuzzy block="Valor do sensor infravermelho na porta %pin"
     //% weight=10
     //% group="Infravermelho"
     export function infraredValue(pin: InputPorts): number {
         let analogReadPort = pins.analogReadPin(pin);
         return analogReadPort;
     }
-        
+
         /**
          * Obtem o valor do sensor de som na porta determinada.
          * @param porta de entrada da placa de expansão.
