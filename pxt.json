@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "actuators.ts",
-        "sensors.ts"
+        "sensors.ts",
+        "smart.ts"
     ],
     "testFiles": [
         "test.ts"
